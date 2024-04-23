@@ -7,7 +7,7 @@ export const Config: any = {
     host: 'localhost',
     port: 5432,
     username: 'postgres',
-    password: 'C@res0ft',
+    password: 'your_password',
     database: 'customer_user',
     entities: [User],
     synchronize: true,
